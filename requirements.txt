@@ -1,0 +1,17 @@
+llama-index==0.10.29
+llama-index-vector-stores-milvus==0.1.11
+pymilvus==2.4.1
+python-dotenv==1.0.1
+streamlit==1.36.0
+docx2txt==0.8
+llama-index-readers-web==0.1.8
+psycopg2==2.9.9
+openai~=1.35.14
+llama-index-embeddings-huggingface==0.2.2
+llama-index-embeddings-langchain==0.1.2
+langchain
+sentence-transformers
+gpt4all
+langchain-community
+langchain-huggingface
+llama-index-llms-llamafile
